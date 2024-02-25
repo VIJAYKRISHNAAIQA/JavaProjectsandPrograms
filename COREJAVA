@@ -1,0 +1,202 @@
+
+Title: "Core Java Mastery"
+
+Table of Contents:
+Module 1: Introduction to Java
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Understanding the Role of Java in Software Development
+        Historical Evolution of Java
+        Setting up a Java Development Environment
+        Overview of Integrated Development Environments (IDEs)
+        Writing and Running Your First Java Program
+        Basic Debugging Techniques
+        Exploring Java Community Resources
+
+Module 2: Java Basics
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Variables and Data Types
+        Operators and Expressions
+        Control Flow (if, else, switch, loops)
+        Functions (Methods) in Java
+            Method Signature and Parameters
+            Return Types and Overloading
+        Arrays and Strings
+            Single-Dimensional Arrays
+            Multi-Dimensional Arrays
+            String Manipulation
+
+Module 3: Object-Oriented Programming (OOP)
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to Object-Oriented Programming
+        Classes and Objects
+            Constructors and Destructors
+            Access Modifiers
+        Inheritance
+            Types of Inheritance
+            Overriding and Overloading
+        Polymorphism
+            Compile-time Polymorphism
+            Runtime Polymorphism
+        Encapsulation
+            Data Hiding
+            Accessor and Mutator Methods
+        Abstraction
+            Abstract Classes
+            Interfaces
+        SOLID Principles
+        Design Patterns in Java
+
+Module 4: Exception Handling
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Understanding Exceptions
+            Checked and Unchecked Exceptions
+        Handling Exceptions
+            try-catch Blocks
+            finally Block
+            Multiple Catch Blocks
+        Custom Exceptions
+            Creating Custom Exception Classes
+            Throwing and Catching Custom Exceptions
+        Best Practices in Exception Handling
+
+Module 5: Collections Framework
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to Collections
+            Collection Interfaces
+            Collection Classes
+        List Interface and Implementations
+            ArrayList
+            LinkedList
+            Vector
+            Stack
+        Set Interface and Implementations
+            HashSet
+            LinkedHashSet
+            TreeSet
+        Map Interface and Implementations
+            HashMap
+            LinkedHashMap
+            TreeMap
+        Iterators and Iterable Interface
+        Streams and Functional Interfaces
+        Comparators and Comparable Interface
+
+Module 6: File Handling
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Reading and Writing Files
+            FileInputStream and FileOutputStream
+            FileReader and FileWriter
+            BufferedReader and BufferedWriter
+        File Input/Output Streams
+            Serialization and Deserialization
+        Working with File Directories
+            File and Directory Operations
+
+Module 7: Multithreading
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to Threads
+            Creating Threads
+            Thread States
+            Thread Priorities
+        Synchronization
+            synchronized Keyword
+            Locks and Thread Safety
+        Thread Pools and Executors
+            ThreadPoolExecutor
+            Future and Callable
+        Advanced Concurrency Concepts
+            ThreadLocal
+            Concurrent Collections
+
+Module 8: JDBC (Java Database Connectivity)
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to Databases
+            Relational Databases
+            SQL Basics
+        JDBC Architecture
+            DriverManager and Connection
+            Statement, PreparedStatement, and CallableStatement
+        Connecting to Databases
+            Connecting to MySQL, PostgreSQL, Oracle, etc.
+        Performing CRUD Operations
+            SELECT, INSERT, UPDATE, DELETE
+        Connection Pooling
+            Connection Pooling Concepts
+            Implementing Connection Pooling in Java
+
+Module 9: GUI Programming with Swing
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to Swing
+            Swing Components
+            Event Handling in Swing
+        Creating GUI Components
+            JFrame, JPanel, JButton, JLabel, etc.
+        Event Handling
+            ActionListener, MouseListener, KeyListener
+        Layout Managers
+            FlowLayout, BorderLayout, GridLayout, etc.
+        Customizing Look and Feel
+            Using Themes and Styles
+
+Module 10: JavaFX (Optional)
+
+    Timings:
+        Weekdays: 1-2 hours
+        Weekends: 2-4 hours
+    Topics:
+        Introduction to JavaFX
+            JavaFX Architecture
+            Scene Graph
+        Building UI with FXML
+            FXML Basics
+            Creating UI Elements in FXML
+        Event Handling in JavaFX
+            Handling Events in FXML
+            Event Bubbling
+        Styling JavaFX Applications
+            CSS Styling
+            Custom Styling
+        Integrating JavaFX with Java Applications
+            Embedding JavaFX in Swing
+            JavaFX and MVC Architecture
+
+Duration:
+
+    Total Weeks: Approximately 10 weeks
+    Total Hours: 70-100 hours (including practical coding and exercises)
